@@ -19,8 +19,6 @@ OUTPUT:
 
 TEXT GROWING
 
-![Screenshot (10)](https://github.com/AnushaPShet/WEB-TECHNOLOGY/assets/119748994/ea2363ff-2972-408f-9546-0a88d09db171)
-
 ![Screenshot (11)](https://github.com/AnushaPShet/WEB-TECHNOLOGY/assets/119748994/bfb9d62f-76d9-49d5-a2fd-5749de4509c5)
 
 TEXT SHRINKING

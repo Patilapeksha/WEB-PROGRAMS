@@ -30,7 +30,9 @@ Assignment-4 : STRING AND NUMBER FUNCTIONS
 
 OUTPUT:
 
-![Screenshot (16)](https://github.com/AnushaPShet/WEB-TECHNOLOGY/assets/119748994/20d60f6d-d262-4802-92df-eade7fd09b41)
+![Screenshot (18)](https://github.com/Patilapeksha/WEB-PROGRAMS/assets/136415491/a9d4f2a1-4340-435b-9676-6d7e876d701a)
+
+
 
 
 

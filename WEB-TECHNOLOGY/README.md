@@ -1,11 +1,10 @@
-# WEB-TECHNOLOGY
+# WEB-PROGRAMS
 
 Assignment-1 : SIMPLE CALCULATOR
 
 OUTPUT:
+![Screenshot (17)](https://github.com/Patilapeksha/WEB-PROGRAMS/assets/136415491/77c8765e-b304-4793-8546-009d2a2fa5ea)
 
-
-![Screenshot (8)](https://github.com/AnushaPShet/WEB-TECHNOLOGY/assets/119748994/a96a3f2c-b122-451c-9bfd-939c799b18ee)
 
 Assignment-2 : SQUARES AND CUBES OF A NUMBER
 
